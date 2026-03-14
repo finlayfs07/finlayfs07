@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Finlay Shayo
+I'm a Software Engineering student at Asia Pacific University in Malaysia.
+I enjoy coding and I'm particularly interested in game development, where I can combine creativity with programming.
 
-<!--
-**finlayfs07/finlayfs07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚧 What I'm Working On:
+Improving my programming skills
+Learning more about game development
+Building more projects to grow as a developer
 
-Here are some ideas to get you started:
+🛠️ Tools & Languages
+C++
+C#
+Python
+Unity
+Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to Reach Me
+Email: finlayshayo07@gmail.com
